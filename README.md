@@ -1,5 +1,5 @@
-# securities-investment-architecture-and-practice
-A practitioner-focused, serialized book on designing securities investment systems: data pipelines, risk controls, and system architecture. Includes Python code, diagrams, and reproducible examples.
+# Building-System-For-Securities-Investment-Architecture-And-Practice
+A practitioner-focused, serialized book on designing securities investment systems: data pipelines, risk controls, and system architecture. Incysludes Python code, diagrams, and reproducible examples.
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 

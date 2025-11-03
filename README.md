@@ -1,5 +1,5 @@
 # Building-System-For-Securities-Investment-Architecture-And-Practice
-A practitioner-focused, serialized book on designing securities investment systems: data pipelines, risk controls, and system architecture. Incysludes Python code, diagrams, and reproducible examples.
+A practitioner-focused, serialized project on designing securities investment systems: data pipelines, risk controls, and system architecture. Includes Python code, diagrams, and reproducible examples.
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
@@ -7,7 +7,7 @@ A practitioner-focused, serialized book on designing securities investment syste
 
 > Bridging 25+ years of market experience with modern computational finance
 
-## 📖 About This Book
+## 📖 About This Project
 
 A comprehensive framework for securities investment covering:
 - **Investment Philosophy** (Eastern & Western perspectives)
@@ -42,14 +42,14 @@ This repository contains code examples that operationalize concepts from the boo
 |---------|------------|--------------|
 | 1 | Philosophy | Eastern/Western investment philosophy |
 | 2 | Psychology | Munger's psychology, behavioral finance |
-| 3 | Investment理念 | Value investing, Stop Doing List |
+| 3 | Investment Principle | Value investing, Stop Doing List |
 | 4 | Portfolio Construction | Great companies, event arbitrage |
 | 5-7 | Business Analysis | Models, culture, valuation |
 | 8-10 | Methodology & Risk | Macroeconomics, derivatives, risk control |
 
 ## 🔬 Research Applications
 
-The frameworks in this book inform my current ML research in:
+The frameworks in this project inform my current ML research in:
 - **Time-series forecasting** incorporating behavioral factors
 - **Financial NLP** for analyzing corporate culture and business models
 - **Risk modeling** based on holistic risk definitions

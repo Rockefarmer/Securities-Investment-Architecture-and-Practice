@@ -1,4 +1,5 @@
 Chapter 1 · Philosophical Reflections on Securities Investment
+
 Section 1 · Philosophical Concepts
 
 Investment is a way of life. The stock market is a battlefield of ideas. Amid its rises and falls—sharp price swings and rapid shifts between bull and bear cycles—investors develop deep intuitions about society, human nature, returns, and risk. Many therefore turn to metaphysical traditions—philosophy and religion—for psychological release and consolation. As the I Ching (Yijing) puts it: “What is above form is called the Dao; what is below form is called an instrument” (Wilhelm and Baynes 1967, Book II, Part I, ch. 12).
